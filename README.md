@@ -9,7 +9,7 @@ I had nothing to do with this field at first and  didn’t know where to start, 
 - And in my language, we often say, 'Repetition is the mother of learning. Repeat and practise again and again.
 
 At least, this is what I have done—or rather, what I’m still doing—because I’m still learning and evolving.
-(I will try to update the lists of resources frequently.)
+(I will try to update the lists of resources frequently)
 # 🛢️ SQL
 
 ## Courses & Full Projects
